@@ -1,10 +1,10 @@
 To Run the Streamlit application:
 
 
-streamlit run app.py
--> Enter a topic in the text input field and click "Enter".
+streamlit run quiz.py
+-> Enter a quiz genre in the text input field and level of your quiz with number of questions and click "Enter".
 
--> The application will display the practice questions related to the entered topic.
+-> The application will display the quiz questions related to the entered genre.
 
-Access this using Web: https://practiseq.streamlit.app/
+Access this using Web: https://quizoclock.streamlit.app/
 
